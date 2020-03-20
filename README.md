@@ -171,6 +171,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Xenn.io](https://xenn.io/#/)                              |                | 1 hafta |
 |     | [VNGRS](https://vngrs.com)                                 |                | -       |
 |     | [Vakko](https://www.vakko.com/)                            |                | -       |
+|     | [VeriPark](https://www.veripark.com/)                      | 2020-03-18     | -       |
 |     | [Vodafone](https://www.vodafone.com/)                      |                | 2 hafta |
 |     | [Volosoft](https://www.volosoft.com/)                      |                | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 |                | -       |
